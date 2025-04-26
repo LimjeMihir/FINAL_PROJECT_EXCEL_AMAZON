@@ -35,6 +35,35 @@ This project offers **data-driven business intelligence** and **strategic recomm
 
 ---
 
+## 📊 Dashboard Interpretation
+
+The **Dashboard** provides an **interactive visual summary** of Amazon's sales performance for the year **2025**.  
+It includes dynamic **charts**, **pivot tables**, and **slicers** for easy navigation.
+
+<img src="dashboard.png" height=500px width="850px">
+
+### 🎯 What the Dashboard Shows:
+
+- **Monthly Sales Trends** 📈:  
+  Line charts and graphs represent how sales fluctuated month-by-month, helping spot peak seasons and slowdowns.
+
+- **Top-Selling Categories & Products** 🏆:  
+  Bar charts highlight which product categories and specific items generated the highest revenue.
+
+- **Region-Wise Performance** 🌍:  
+  Maps and pivot charts break down sales by regions, showcasing strong and weak markets.
+
+- **Impact of Discounts** 💸:  
+  Visualization of how discount offers influenced customer purchases and overall sales figures.
+
+- **Dynamic Slicers** 🧩:  
+  Easy-to-use filters (like Region, Product Category, Month) that let users interact with the dashboard and drill down into specific segments of the data.
+
+> 🚀 **Overall Insight:**  
+> The Dashboard makes it easy to understand key business patterns at a glance, guiding smarter decisions for future sales strategies.
+
+---
+
 ## 📂 Repository Structure
 
 | File | Description |
