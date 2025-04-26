@@ -40,7 +40,7 @@ This project offers **data-driven business intelligence** and **strategic recomm
 The **Dashboard** provides an **interactive visual summary** of Amazon's sales performance for the year **2025**.  
 It includes dynamic **charts**, **pivot tables**, and **slicers** for easy navigation.
 
-<img src="dashboard.png" height=700px width="1050px">
+<img src="dashboard.png" height=850px width="1250px">
 
 ### 🎯 What the Dashboard Shows:
 
